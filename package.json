@@ -1,0 +1,16 @@
+{
+    "name": "cmon",
+    "version": "1.0.0",
+    "description": "",
+    "main": "watcher.js",
+    "scripts": {
+        "start": "node ./daemon.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chokidar": "^3.5.1",
+        "colors": "^1.4.0"
+    }
+}
